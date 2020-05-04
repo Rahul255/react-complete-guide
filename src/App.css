@@ -8,7 +8,7 @@
 .bold {
   font-weight: bold;
 }
-.button {
+.Button {
   background-color: green;
   color: white;
   font: inherit;
@@ -18,7 +18,7 @@
 }
 
 
-.button:hover {
+.Button:hover {
    background-color: orange;
    color: black;
  }
